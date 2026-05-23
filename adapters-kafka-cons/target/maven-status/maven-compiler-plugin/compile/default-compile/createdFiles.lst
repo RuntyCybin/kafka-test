@@ -1,0 +1,3 @@
+com/kafka/consumer/UserKafkaConsumer.class
+com/kafka/consumer/KafkaConsumerConfig.class
+com/kafka/consumer/MessageKafkaConsumer.class

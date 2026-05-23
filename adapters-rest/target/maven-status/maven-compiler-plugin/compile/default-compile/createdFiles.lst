@@ -1,0 +1,11 @@
+com/kafka/rest/mappers/UserToUserUpdateRequestDtoMapper.class
+com/kafka/rest/mappers/TextQualifiers.class
+com/kafka/rest/mappers/UserToUserUpdateRequestDtoMapperImpl.class
+com/kafka/rest/UserController.class
+com/kafka/rest/mappers/UserToUserUpdateResponseDtoMapper.class
+com/kafka/rest/UserUpdateResponseDto.class
+com/kafka/rest/mappers/UserToUserUpdateResponseDtoMapperImpl.class
+com/kafka/rest/UserUpdateRequestDto.class
+com/kafka/rest/config/MapperConfig.class
+com/kafka/rest/mappers/GlobalMappingConfig.class
+com/kafka/rest/MessageController.class

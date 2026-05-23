@@ -1,0 +1,9 @@
+/Users/runtycybin/Dev/git/kafka_test/demo/adapters-rest/src/main/java/com/kafka/rest/MessageController.java
+/Users/runtycybin/Dev/git/kafka_test/demo/adapters-rest/src/main/java/com/kafka/rest/mappers/TextQualifiers.java
+/Users/runtycybin/Dev/git/kafka_test/demo/adapters-rest/src/main/java/com/kafka/rest/UserUpdateResponseDto.java
+/Users/runtycybin/Dev/git/kafka_test/demo/adapters-rest/src/main/java/com/kafka/rest/UserUpdateRequestDto.java
+/Users/runtycybin/Dev/git/kafka_test/demo/adapters-rest/src/main/java/com/kafka/rest/mappers/UserToUserUpdateResponseDtoMapper.java
+/Users/runtycybin/Dev/git/kafka_test/demo/adapters-rest/src/main/java/com/kafka/rest/mappers/GlobalMappingConfig.java
+/Users/runtycybin/Dev/git/kafka_test/demo/adapters-rest/src/main/java/com/kafka/rest/config/MapperConfig.java
+/Users/runtycybin/Dev/git/kafka_test/demo/adapters-rest/src/main/java/com/kafka/rest/UserController.java
+/Users/runtycybin/Dev/git/kafka_test/demo/adapters-rest/src/main/java/com/kafka/rest/mappers/UserToUserUpdateRequestDtoMapper.java
